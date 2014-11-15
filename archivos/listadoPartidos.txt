@@ -1,4 +1,4 @@
-﻿PSOE
-PP
-Podemos
-UPYD
+﻿PSOE, Izquierda, Pedro Sanchez, 25000, false
+PP, Derecha, Mariano Rajoy, 30000, true
+Podemos, Izquierda, Pablo Iglesias, 20000, false
+UPYD, Centro, Rosa Diez, 15000, false
